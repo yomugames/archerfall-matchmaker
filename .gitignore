@@ -1,0 +1,6 @@
+node_modules
+tags
+.DS_Store
+dist
+deployment.yaml.build
+archerfall-firebase-credentials.json
